@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+# Jennifer's First CS193 Homework
+- I have a couple of friends from CS180 class 
+- I like how this course doesn't have any exams
+- I feel like I can learn some useful tools to use in the future
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
